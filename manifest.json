@@ -1,9 +1,15 @@
 {
-	"author": {
-	  "name": "Tagging Tickets using AI - FreeText AI",
-	  "email": "support@freetext.ai",
-	  "url": "https://freetext.ai/integrations/zendesk",
-    "marketingOnly": true,
-    "private": false
-	}
+  "name": "Tagging Tickets using AI - FreeText AI",
+  "author": {
+    "name": "FreeText AI",
+    "email": "support@freetext.ai",
+	  "url": "https://freetext.ai/integrations/zendesk"
+  },
+  "location": {
+    "support": {
+    }
+  },
+  "defaultLocale": "en",
+  "marketingOnly": true,
+  "private": false
 }
