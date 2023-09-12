@@ -1,5 +1,91 @@
-<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4.60352 8.24587H5.64196V7.71599C5.64196 7.1243 5.70406 6.68268 5.82831 6.39125C5.95701 6.09982 6.19 5.86351 6.52728 5.6825C6.869 5.49703 7.29942 5.4043 7.81861 5.4043C8.35118 5.4043 8.87257 5.48379 9.38292 5.64273L9.12996 6.94098C8.83263 6.87033 8.54643 6.835 8.27131 6.835C8.00058 6.835 7.80533 6.89907 7.68546 7.0271C7.57015 7.15074 7.51244 7.39143 7.51244 7.74907V8.24587H8.91031V9.70972H7.51244V15.2802H5.64196V9.70972H4.60352V8.24587Z" fill="#040403"/>
-<path d="M13.1682 8.22607H4.44336V9.85389H13.1682V8.22607Z" fill="#040403"/>
-<path d="M8.66992 9.75134H9.73158V10.281C9.73158 10.8725 9.79509 11.3139 9.92216 11.6052C10.0537 11.8965 10.2919 12.1327 10.6367 12.3137C10.9861 12.4991 11.4262 12.5918 11.957 12.5918C12.5014 12.5918 13.0346 12.5123 13.5563 12.3534L13.2977 11.0557C12.9937 11.1263 12.7011 11.1616 12.4198 11.1616C12.143 11.1616 11.9434 11.0976 11.8209 10.9696C11.7029 10.846 11.644 10.6054 11.644 10.2479V9.75134H13.0731V8.28805H11.644V2.71973H9.73158V8.28805H8.66992V9.75134Z" fill="#040403"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="18"
+   height="18"
+   fill="none"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview50"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="30.28774"
+     inkscape:cx="3.9950157"
+     inkscape:cy="8.1386065"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg48" />
+  <g
+     clip-path="url(#a)"
+     id="g41"
+     transform="matrix(1.0893738,0,0,1.0995119,-1.1109742,-0.80812734)">
+    <mask
+       id="b"
+       width="14"
+       height="18"
+       x="2"
+       y="0"
+       maskUnits="userSpaceOnUse">
+      <path
+         fill="#ffffff"
+         d="m 15.5,0.5 h -13 v 17 h 13 z"
+         id="path25" />
+    </mask>
+    <g
+       mask="url(#b)"
+       id="g39">
+      <mask
+         id="c"
+         width="14"
+         height="18"
+         x="2"
+         y="0"
+         maskUnits="userSpaceOnUse">
+        <path
+           fill="#ffffff"
+           d="m 15.5,0.5 h -13 v 17 h 13 z"
+           id="path28" />
+      </mask>
+      <g
+         fill="#040403"
+         mask="url(#c)"
+         id="g35">
+        <path
+           d="M 3.459,7.963 H 4.874 V 7.271 C 4.874,6.499 4.958,5.922 5.128,5.542 5.303,5.162 5.62,4.853 6.08,4.617 6.545,4.375 7.132,4.254 7.839,4.254 c 0.725,0 1.436,0.103 2.13,0.311 L 9.626,6.26 A 5.266,5.266 0 0 0 8.456,6.121 C 8.088,6.121 7.822,6.205 7.658,6.372 7.501,6.534 7.423,6.848 7.423,7.315 V 7.963 H 9.327 V 9.874 H 7.422 v 7.272 H 4.874 V 9.874 H 3.459 v -1.91 z"
+           id="path31" />
+        <path
+           d="M 15.128,7.938 H 3.242 v 2.125 H 15.128 V 7.937 Z"
+           id="path33" />
+      </g>
+      <path
+         fill="#040403"
+         d="m 9,9.928 h 1.446 v 0.692 c 0,0.772 0.087,1.348 0.26,1.729 0.18,0.38 0.504,0.688 0.973,0.924 0.476,0.242 1.076,0.363 1.799,0.363 0.742,0 1.468,-0.103 2.179,-0.31 l -0.353,-1.695 a 5.5,5.5 0 0 1 -1.196,0.138 c -0.377,0 -0.649,-0.083 -0.816,-0.25 -0.16,-0.162 -0.24,-0.476 -0.24,-0.942 V 9.928 h 1.946 V 8.018 H 13.052 V 0.75 H 10.446 V 8.02 H 9 v 1.91 z"
+         id="path37" />
+    </g>
+  </g>
+  <defs
+     id="defs46">
+    <clipPath
+       id="a">
+      <path
+         fill="#fff"
+         d="M2.5.5h13v17h-13z"
+         id="path43" />
+    </clipPath>
+  </defs>
 </svg>
