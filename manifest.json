@@ -9,6 +9,7 @@
     "support": {
     }
   },
+  "defaultLocale": "en",
   "marketingOnly": true,
   "private": false
 }
