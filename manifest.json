@@ -1,7 +1,15 @@
 {
-	"author": {
-	  "name": "FreeText AI",
-	  "email": "support@freetext.ai",
-	  "url": "https://freetext.ai"
-	}
+  "name": "Ticket Tagging AI by FreeText AI",
+  "author": {
+    "name": "FreeText AI",
+    "email": "support@freetext.ai",
+	  "url": "https://freetext.ai/integrations/zendesk"
+  },
+  "location": {
+    "support": {
+    }
+  },
+  "defaultLocale": "en",
+  "marketingOnly": true,
+  "private": false
 }
